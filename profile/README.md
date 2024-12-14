@@ -19,34 +19,43 @@ Here’s what smarter.day offers:
 
 ### **Features**  
 
-#### **Core Features (Implemented)**  
+At **smarter.day**, we’re working tirelessly to bring your productivity dreams to life. 
 
-- ✅ **"Eat That Frog" Methodology** 🐸: Tackle your most critical task first to build momentum.  
-- ✅ **Task Prioritization** 📝: Use the Eisenhower Matrix to stay focused on what matters most.  
-- ✅ **Task Hardness** 💪: Categorize tasks by their difficulty for better planning.  
-- ✅ **Smart Score** 🧠: Calculate task priority using a proprietary algorithm based on longevity, hardness, and importance to optimize time management.  
-- ✅ **Habit Building** 🌱: Develop transformative habits with structured workflows and goals.  
-- ✅ **Team Collaboration** 🤝: Share and manage projects (lists) and tasks with teams or individuals.  
-- ✅ **Smart Notifications** 🔔: Leverage scientifically optimized reminders and nudges.  
-- ✅ **Your Day View** 🗓️: Visualize your day with time blocks, priorities, and buffer zones.  
-- ✅ **Backlog Space** 📂: Maintain a central repository for brainstorming ideas and tracking unstructured tasks.  
-- ✅ **Offline Mode** 📴: Stay productive anywhere with offline task management that syncs automatically when online.  
+🚀 Our mission is to create a tool that empowers you to stay organized, focused, and in control of your day—all while making it simple and enjoyable to use. 
 
-#### **Upcoming Features (`To-Do`)**  
+Whether you’re tackling big goals, building habits, or managing a team, smarter.day is here to help you succeed.  
 
-- 📅 **Calendar Sync**: Integrate seamlessly with Google and Apple Calendars for better scheduling.  
-- ⚡ **Energy Management**: Match tasks to your energy levels using scientifically validated methods for peak performance.  
-- ⏱️ **Pomodoro Timers**: Boost focus and prevent burnout with timed work intervals.  
-- 📊 **Advanced Analytics**: Gain insights into your productivity trends with detailed reports and visualizations.  
-- 🎯 **Focus Mode**: Minimize distractions with a clean, task-centered interface.  
-- 📤 **Advanced Sharing**: Share tasks, projects, and habits with granular permission settings.
-- 🤖 **AI Task Assistant**: Intelligent recommendations to optimize task order, reduce cognitive load, and enhance decision-making.  
+With features inspired by cutting-edge productivity science and user feedback, we’re dedicated to delivering a platform that evolves with your needs. 
 
-- **Energy & Productivity Insights** 🌅: Track your energy cycles throughout the day and receive tailored task suggestions based on energy peaks and troughs.  
-- **Dynamic Prioritization** 🚦: Reprioritize tasks in real-time as deadlines, importance, or energy levels shift.  
-- **Goal Alignment** 🎯: Link daily tasks to long-term goals, ensuring every effort contributes to personal and professional growth.  
-- **Behavioral Analytics** 📈: Identify patterns in procrastination, focus, and energy usage to help refine your workflow.  
-- **Progressive Workflows** 🛠️: Break down complex projects into smaller, actionable steps with checkpoints and milestone tracking.  
+Here’s what smarter.day offers today, and a glimpse of what’s coming soon to make every day smarter. 🌟  
+
+
+| **Feature**                           | **Description**                                                                                              | **Status** |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------|------------|
+| 🐸 **"Eat That Frog" Methodology**     | Tackle your most critical task first to build momentum.                                                     | ✅ Done     |
+| 📝 **Task Importance and Urgency**     | Use the Eisenhower Matrix to stay focused on what matters most.                                              | ✅ Done     |
+| 💪 **Task Hardness**                   | Categorize tasks by their difficulty for better planning.                                                    | ✅ Done     |
+| 🧠🌟 **Smart Score**                    | Proprietary algorithm to calculate task priority based on longevity, hardness, and importance.               | ✅ Done     |
+| 🌱 **Habit Building**                  | Develop transformative habits with structured workflows and goals.                                           | ✅ Done     |
+| 🤝 **Team Collaboration**              | Share and manage projects (lists) and tasks with teams or individuals.                                       | ✅ Done     |
+| 🔔 **Smart Notifications**            | Scientifically optimized reminders and nudges.                                                               | ✅ Done     |
+| 🗓️ **Your Day View**                  | Visualize your day with time blocks, priorities, and buffer zones.                                           | ✅ Done     |
+| 📂 **Backlog Space**                   | Central repository for brainstorming ideas and tracking unstructured tasks.                                  | ✅ Done     |
+| 📴 **Offline Mode**                   | Stay productive anywhere with offline task management that syncs automatically when online.                  | ✅ Done     |
+| 📅 **Calendar Sync**                  | Seamless integration with Google and Apple Calendars for better scheduling.                                  | 🚧 ToDo   |
+| ⚡ **Energy Management**              | Match tasks to your energy levels using scientifically validated methods for peak performance.                | 🚧 ToDo   |
+| ⏱️ **Pomodoro Timers**               | Boost focus and prevent burnout with timed work intervals.                                                   | 🚧 ToDo   |
+| 📊 **Advanced Analytics**            | Gain insights into your productivity trends with detailed reports and visualizations.                        | 🚧 ToDo   |
+| 🎯 **Focus Mode**                     | Minimize distractions with a clean, task-centered interface.                                                 | 🚧 ToDo   |
+| 📤 **Advanced Sharing**              | Share tasks, projects, and habits with granular permission settings.                                         | 🚧 ToDo   |
+| 🤖 **AI Task Assistant**             | Intelligent recommendations to optimize task order and enhance decision-making.                              | 🚧 ToDo   |
+| 🌅 **Energy & Productivity Insights** | Track energy cycles throughout the day and receive tailored task suggestions based on peaks and troughs.      | 🚧 ToDo   |
+| 🚦 **Dynamic Prioritization**         | Reprioritize tasks in real-time as deadlines, importance, or energy levels shift.                             | 🚧 ToDo   |
+| 🎯 **Goal Alignment**                | Link daily tasks to long-term goals, ensuring every effort contributes to personal and professional growth.   | 🚧 ToDo   |
+| 📈 **Behavioral Analytics**          | Identify patterns in procrastination, focus, and energy usage to help refine workflows.                       | 🚧 ToDo   |
+| 🛠️ **Progressive Workflows**         | Break down complex projects into smaller, actionable steps with checkpoints and milestone tracking.           | 🚧 ToDo   |
+
+ 
 
 ---
 
