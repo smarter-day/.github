@@ -85,7 +85,7 @@ Stay connected and get involved with the smarter.day community:
 - 🐦 **[X (formerly Twitter)](https://x.com/smarterdayapp)**
 - 📸 **[Instagram](#)** — Get inspired with productivity hacks.  
 - 📹 **[YouTube](#)** — Watch tutorials and deep dives into smarter.day features.  
-- 💼 **[LinkedIn](#)** — Connect with our team and stay updated on smarter.day’s journey.
+- 💼 **[LinkedIn]([#](https://www.linkedin.com/groups/10013895/))** — Connect with our team and stay updated on smarter.day’s journey.
 - 🎵 **[TikTok](#)** — Quick productivity tips and engaging short videos.  
 - 📌 **[Pinterest](#)** — Boards with productivity hacks and visually appealing planners.  
 - 📱 **[Threads](#)** — Engage in casual conversations and share updates with a relaxed vibe.  
