@@ -82,7 +82,7 @@ Stay connected and get involved with the smarter.day community:
 - 🇫 **[Facebook](https://www.facebook.com/smarterdayapp)**
 - 💬 **[Telegram](https://t.me/smarterday)**
 - 💬 **[Discord](https://discord.gg/v7n7shpp76)**
-- 🐦 **[X (formerly Twitter)](#)**
+- 🐦 **[X (formerly Twitter)](https://x.com/smarterdayapp)**
 - 📸 **[Instagram](#)** — Get inspired with productivity hacks.  
 - 📹 **[YouTube](#)** — Watch tutorials and deep dives into smarter.day features.  
 - 💼 **[LinkedIn](#)** — Connect with our team and stay updated on smarter.day’s journey.
