@@ -79,22 +79,21 @@ Here’s what smarter.day offers today, and a glimpse of what’s coming soon to
 Stay connected and get involved with the smarter.day community:  
 
 - 🌐 **[Official Website](https://www.smarter.day)**
-- 🇫 **[Facebook](https://www.facebook.com/smarterdayapp)** - Join our community on Facebook
-- 💬 **[Discord](https://discord.gg/v7n7shpp76)** — Chat with our team and other users.  
-- 🐦 **[X (formerly Twitter)](#)** — Follow us for updates and tips.  
+- 🇫 **[Facebook](https://www.facebook.com/smarterdayapp)**
+- 💬 **[Telegram](https://t.me/smarterday)**
+- 💬 **[Discord](https://discord.gg/v7n7shpp76)**
+- 🐦 **[X (formerly Twitter)](#)**
 - 📸 **[Instagram](#)** — Get inspired with productivity hacks.  
 - 📹 **[YouTube](#)** — Watch tutorials and deep dives into smarter.day features.  
 - 💼 **[LinkedIn](#)** — Connect with our team and stay updated on smarter.day’s journey.
-- 🎵 **[TikTok](#)** — Share quick productivity tips and engaging short videos.  
-- 📌 **[Pinterest](#)** — Create boards with productivity hacks and visually appealing planners.  
+- 🎵 **[TikTok](#)** — Quick productivity tips and engaging short videos.  
+- 📌 **[Pinterest](#)** — Boards with productivity hacks and visually appealing planners.  
 - 📱 **[Threads](#)** — Engage in casual conversations and share updates with a relaxed vibe.  
-- 🌍 **[Reddit](https://reddit.com/r/smarterday)** — Build a community in subreddits like r/productivity or r/selfimprovement.  
-- 🛠️ **[Product Hunt](https://www.producthunt.com/)** — Showcase smarter.day to tech enthusiasts and early adopters.  
-- 👾 **[Twitch](#)** — Host live Q&A sessions or productivity streams to connect with your audience.  
-- 💌 **[Substack](https://substack.com/)** — Start a newsletter with productivity tips and smarter.day updates.  
-- 🎮 **[Steam Community](#)** — For gamers seeking productivity tools, if relevant.  
-- 🎙️ **[Spotify](#)** — Publish a podcast with insights on productivity and habits.  
-- 💬 **[Quora](https://www.quora.com/)** — Answer questions and promote smarter.day through expertise in productivity topics.  
+- 🌍 **[Reddit](https://reddit.com/r/smarterday)**
+- 🛠️ **[Product Hunt](https://www.producthunt.com/)** — For tech enthusiasts and early adopters.  
+- 👾 **[Twitch](#)** — Live Q&A sessions or productivity streams.  
+- 💌 **[Substack](https://substack.com/)** — Newsletter with productivity tips and smarter.day updates.  
+- 💬 **[Quora](https://www.quora.com/)** — Questions and answers through expertise in productivity topics.  
 
 ---
 
