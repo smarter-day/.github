@@ -78,7 +78,8 @@ Here’s what smarter.day offers today, and a glimpse of what’s coming soon to
 
 Stay connected and get involved with the smarter.day community:  
 
-- 🌐 **[Official Website](https://www.smarter.day)**  
+- 🌐 **[Official Website](https://www.smarter.day)**
+- 🇫 **[Facebook](https://www.facebook.com/smarterdayapp)** - Join our community on Facebook
 - 💬 **[Discord](https://discord.gg/v7n7shpp76)** — Chat with our team and other users.  
 - 🐦 **[X (formerly Twitter)](#)** — Follow us for updates and tips.  
 - 📸 **[Instagram](#)** — Get inspired with productivity hacks.  
