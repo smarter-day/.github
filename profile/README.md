@@ -20,7 +20,7 @@ smarter.day combines the latest science of productivity with an intuitive user e
 
 Stay connected and get involved with the smarter.day community:  
 
-- 🌐 **[Official Website](https://www.smarter.day)**
+<!-- - 🌐 **[Official Website](https://www.smarter.day)** -->
 - 🇫 **[Facebook](https://www.facebook.com/smarterdayapp)**
 - 💬 **[Telegram](https://t.me/smarterday)**
 - 💬 **[Discord](https://discord.gg/v7n7shpp76)**
