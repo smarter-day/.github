@@ -6,7 +6,8 @@ Welcome to **smarter.day**, the ultimate productivity app designed to help you o
 
 From task management to habit creation, smarter.day is here to transform how you plan and execute your daily life.
 
-🚀 Ready to level up your productivity?
+**🚀 Ready to level up your productivity?**
+
 Download smarter.day today and take control of your time like never before!
 
 📱 [iOS App](#) | 📱 [Android App](#) | 🌐 [Web App](#)
@@ -27,14 +28,14 @@ Stay connected and get involved with the smarter.day community:
 - 📸 **[Instagram](https://www.instagram.com/smarterdayapp)** — Get inspired with productivity hacks.  
 - 📹 **[YouTube](https://www.youtube.com/@smarterdayapp)** — Watch tutorials and deep dives into smarter.day features.  
 - 💼 **[LinkedIn](https://www.linkedin.com/groups/10013895/)** — Connect with our team and stay updated on smarter.day’s journey.
-- 🎵 **[TikTok](#)** — Quick productivity tips and engaging short videos.  
-- 📌 **[Pinterest](#)** — Boards with productivity hacks and visually appealing planners.  
+- 🎵 **[TikTok](https://www.tiktok.com/@smarterdayapp)** — Quick productivity tips and engaging short videos.  
+- 📌 **[Pinterest](https://www.pinterest.com/smarterday/)** — Boards with productivity hacks and visually appealing planners.  
 - 📱 **[Threads](https://www.threads.net/@smarterdayapp)** — Engage in casual conversations and share updates with a relaxed vibe.  
 - 🌍 **[Reddit](https://www.reddit.com/user/smarterday/)**
 - 🛠️ **[Product Hunt](https://www.producthunt.com/)** — For tech enthusiasts and early adopters.  
 - 👾 **[Twitch](#)** — Live Q&A sessions or productivity streams.  
 - 💌 **[Substack](https://substack.com/)** — Newsletter with productivity tips and smarter.day updates.  
-- 💬 **[Quora](https://www.quora.com/)** — Questions and answers through expertise in productivity topics.  
+- 💬 **[Quora](https://www.quora.com/)** — Questions and answers through expertise in productivity topics.
 
 ---
 
