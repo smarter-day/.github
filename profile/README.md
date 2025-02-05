@@ -32,7 +32,7 @@ Stay connected and get involved with the smarter.day community:
 - 📌 **[Pinterest](https://www.pinterest.com/smarterday/)** — Boards with productivity hacks and visually appealing planners.  
 - 📱 **[Threads](https://www.threads.net/@smarterdayapp)** — Engage in casual conversations and share updates with a relaxed vibe.  
 - 🌍 **[Reddit](https://www.reddit.com/user/smarterday/)**
-- 🛠️ **[Product Hunt](https://www.producthunt.com/)** — For tech enthusiasts and early adopters.  
+- 🛠️ **[Product Hunt](https://www.producthunt.com/@smarterday)** — For tech enthusiasts and early adopters.  
 - 👾 **[Twitch](#)** — Live Q&A sessions or productivity streams.  
 - 💌 **[Substack](https://substack.com/)** — Newsletter with productivity tips and smarter.day updates.  
 - 💬 **[Quora](https://www.quora.com/)** — Questions and answers through expertise in productivity topics.
