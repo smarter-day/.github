@@ -1,12 +1,16 @@
-# 🌟 smarter.day — Smarter Planning, Better Living 🌟  
+# 🌟 smarter.day — Do things smarter, not harder 🌟  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmarter-day&count_bg=%23A23DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![yt-cover-01](https://github.com/user-attachments/assets/5d4aee89-aeba-47ee-a8c5-57cfcdd29b5c)
 
 Welcome to **smarter.day**, the ultimate productivity app designed to help you organize, prioritize, and achieve your goals effortlessly. 
 
 From task management to habit creation, smarter.day is here to transform how you plan and execute your daily life.
 
 **🚀 Ready to level up your productivity?**
+
+**We're going to release private beta in TestFlight! Join our Discord and Telegram to participate!**
 
 Download smarter.day today and take control of your time like never before!
 
