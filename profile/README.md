@@ -25,7 +25,7 @@ Stay connected and get involved with the smarter.day community:
 <!-- - 🌐 **[Official Website](https://www.smarter.day)** -->
 - 🇫 **[Facebook](https://www.facebook.com/smarterdayapp)**
 - 💬 **[Telegram](https://t.me/smarterday)**
-- 💬 **[Discord](https://discord.gg/v7n7shpp76)**
+- 💬 **[Discord](https://discord.gg/EGEhZmNw5a)**
 - 🐦 **[X (formerly Twitter)](https://x.com/smarterdayapp)**
 - 📸 **[Instagram](https://www.instagram.com/smarterdayapp)** — Get inspired with productivity hacks.  
 - 📹 **[YouTube](https://www.youtube.com/@smarterdayapp)** — Watch tutorials and deep dives into smarter.day features.  
