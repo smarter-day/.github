@@ -12,7 +12,9 @@ From task management to habit creation, smarter.day is here to transform how you
 
 Download smarter.day today and take control of your time like never before!
 
-📱 [iOS App](#) | 📱 [Android App](#) | 🌐 [Web App](#)
+📱 [iOS App](https://apps.apple.com/us/app/smarter-day/id6736619323)
+
+<!--| 📱 [Android App](#) | 🌐 [Web App](#) -->
 
 smarter.day combines the latest science of productivity with an intuitive user experience to make every day your most productive yet. 
 
